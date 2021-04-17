@@ -1,4 +1,4 @@
-title: Component templates and JavaScript are in the same directory
+title: Das Template und die JavaScript Klasse der Komponent sind im selben Ordner
 description: >
-  The location of component templates has changed in Octane.
-  This is known as "template co-location."
+  Der Pfad zu dem Template änderte sich im Octane.
+  Dies wird als Template-Colocation bezeichnet.

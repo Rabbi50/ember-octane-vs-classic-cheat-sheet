@@ -1,5 +1,5 @@
-title: Use an option to generate a component's JavaScript
+title: Geben Sie eine Option an, um die JavaScript Klasse einer Komponente zu erstellen
 description: >
-  In classic Ember, '<code>'ember generate component'</code>' created three files: the template, a JavaScript file, and a test.
-  In Octane, '<code>'ember generate component'</code>' skips creating the JavaScript file.
-  If you want the backing JavaScript class as well, include the '<code>'-gc'</code>' option.
+  Im Ember Classic erstellte '<code>'ember generate component'</code>' drei Dateien: das Template, die JavaScript Klasse und den Test.
+  Im Octane, überspringt '<code>'ember generate component'</code>' das Erstellen der JavaScript Klasse.
+  Geben Sie die Option '<code>'-gc'</code>' an, wenn Sie sie braucht.

@@ -1,13 +1,13 @@
 layout:
   application:
-    logo-alt-text: 'Ember Octane: the latest edition from Ember.js'
-    title: Ember.js Octane vs Classic Cheat Sheet
+    logo-alt-text: 'Ember Octane, die neueste Ausgabe von Ember.js'
+    title: Ember.js Octane vs. Classic Spickzettel
     description-1: >
-      This guide is a cheat sheet for using '<a href="https://emberjs.com/editions/octane" target="_blank" rel="noopener noreferrer">'Ember.js Octane'</a>'.
-      It doesn't cover everything, but it should get you started!
-      PRs welcome at '<a href="https://github.com/ember-learn/ember-octane-vs-classic-cheat-sheet" target="_blank" rel="noopener noreferrer">'the GitHub repository'</a>'.
+      Dieser Führer ist ein Spickzettel des '<a href="https://emberjs.com/editions/octane" target="_blank" rel="noopener noreferrer">'Ember.js Octanes'</a>'.
+      Er behandelt nicht alle Materialien, die Sie kennen müssen, aber trotzdem Ihnen einen guten Start bieten.
+      Pull-Requests sind auf '<a href="https://github.com/ember-learn/ember-octane-vs-classic-cheat-sheet" target="_blank" rel="noopener noreferrer">'GitHub'</a>' willkommen.
     description-2: >
-      For in-depth information about the upgrade paths and differences introduced in Octane, see '<a href="https://guides.emberjs.com/release/upgrading/" target="_blank" rel="noopener noreferrer">'The Octane Upgrading Guide'</a>'.
+      Weitere Informationen zum Upgrade auf Octane finden Sie in '<a href="https://guides.emberjs.com/release/upgrading/" target="_blank" rel="noopener noreferrer">'The Octane Upgrading Guide'</a>'.
 
 component:
   guide-section:
@@ -15,11 +15,11 @@ component:
     subsection:
       classic: Classic
       octane: Octane
-    edit-translation-text: Edit Translation
+    edit-translation-text: Übersetzung bearbeiten
   locale-menu:
     locale-select:
       label: Translate the guide to
-      placeholder: Select your preferred language
+      placeholder: Wählen Sie Ihre bevorzugte Sprache aus
     #
     # For convenience, the translations of locale menu options
     # will be the same across all locales.
